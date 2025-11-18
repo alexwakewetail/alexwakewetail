@@ -15,27 +15,51 @@ Always learning. Always building.
 ---
 
 ## ✨ What inspires me
-New technologies — especially in the AI world — motivate me to grow as a developer. I’m fascinated by how AI can streamline development, automate repetitive tasks, and completely transform how modern apps are created.
+Modern frontend engineering and emerging technologies — especially AI.  
+I'm inspired by tools that help developers move faster, write cleaner code, and create better user experiences. And I love the constant evolution of the frontend world.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Frontend Skillset
 
-**Frontend:**  
-- React, Next.js, TypeScript  
-- Tailwind CSS, shadcn/ui  
-- Zustand, TanStack Query  
-- Framer Motion
+### **Core Frontend**
+- React • Next.js (App Router)  
+- TypeScript  
+- JavaScript (ES6+)  
+- Component-driven architecture  
+- Reusable design systems  
+- State management (Zustand, Jotai, Context)  
+- TanStack Query, SWR  
+- CSS architecture & best practices  
 
-**Testing:**  
+### **UI / Styling**
+- Tailwind CSS  
+- shadcn/ui  
+- Styled Components  
+- Responsive & mobile-first development  
+- Accessibility (a11y)  
+- Framer Motion & animation principles  
+
+### **Web Development**
+- Semantic HTML  
+- Layouts (Flexbox, Grid)  
+- Clean & scalable CSS  
+- Performance optimization (images, bundles, hydration, caching)  
+- SEO basics (metadata, structure, Core Web Vitals)  
+- Form handling & validation (React Hook Form, Zod)  
+
+### **Testing**
 - Jest  
 - React Testing Library  
-- Playwright (E2E)
+- Playwright (E2E)  
+- Test-driven thinking & component testing  
 
-**Other:**  
-- Docker  
-- GitHub Actions  
-- Performance optimization
+### **Tools**
+- Git & GitHub  
+- Docker (for dev environments)  
+- Figma → to React implementation  
+- CI/CD basics  
+- VS Code, eslint, prettier  
 
 ---
 
